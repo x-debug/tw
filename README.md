@@ -1,6 +1,7 @@
 # TimeWheel
 
 An implementation of Simple Timing Wheels.
+
 ![TimeWheel](./timewheel.jpeg)
 
 ## Features
